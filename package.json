@@ -1,0 +1,20 @@
+{
+  "name": "consolin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --env-file .env --watch index.js"
+  },
+  "keywords": [
+    "IA",
+    "assistant",
+    "console"
+  ],
+  "type": "module",
+  "author": "fiorafran",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "openai": "^4.85.1"
+  }
+}
